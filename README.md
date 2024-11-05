@@ -1,4 +1,4 @@
-# Pointer Networks  --2015NIPS
+# Pointer Networks(NIPS 2015)
 ## 原文链接：https://github.com/Rintarooo/TSP_DRL_PtrNet
 具体内容见上述Python代码
 
