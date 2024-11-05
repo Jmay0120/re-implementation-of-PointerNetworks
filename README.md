@@ -1,6 +1,6 @@
 # Pointer Networks  --NIPS
 ## 原文链接：https://github.com/Rintarooo/TSP_DRL_PtrNet
-## 具体内容见上述Python代码
+具体内容见上述Python代码
 
 # 环境
 - GPU：RTX 2080 Ti
@@ -34,7 +34,7 @@ python test.py -p Pkl/test20.pkl
 # 结果
     随机生成20个城市节点（坐标位于0-1之间），以下有两种路径生成方法，结果如下：
     1. 随机生成路径，路径长度：11.591
-    ![Random](https://github.com/Jmay0120/re-implementation-of-PointerNetworks/blob/master/results/Random.png)
+    ![Random](results/Random.png)
     2. 指针网络生成路径，路径长度：3.934
-    ![PointerNetworks](https://github.com/Jmay0120/re-implementation-of-PointerNetworks/blob/master/results/PointerNetwork.png)
+    ![PointerNetworks](results/PointerNetwork.png)
     
