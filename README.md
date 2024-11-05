@@ -34,7 +34,10 @@ python test.py -p Pkl/test20.pkl
 # 结果
     随机生成20个城市节点（坐标位于0-1之间），以下有两种路径生成方法，结果如下：
     1. 随机生成路径，路径长度：11.591
+    
     ![Random](results/Random.png)
+    
     2. 指针网络生成路径，路径长度：3.934
+    
     ![PointerNetworks](results/PointerNetwork.png)
     
